@@ -1,0 +1,4 @@
+src_to_implement/NeuralNetworkTests.py
+src_to_implement/NeuralNetworktest.py
+*.cpython-38.pyc
+*.cpython-311.pyc
